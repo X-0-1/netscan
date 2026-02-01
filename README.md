@@ -1,10 +1,11 @@
 # net-scanner(minimal)
 a simple network scanner that
-uses python-nmap
+uses python-nmap based for a new custom output layout
 
 # installation:
 
 apt package(debian based):
 ````
-apt update && apt upgrade && apt install python3 && apt install git;git clone https://github.com/X-0-1/netscan-legacy
+apt update && apt upgrade && apt install python3 && apt install git;git clone https://github.com/X-0-1/netscan
 ````
+*Note* this repo hasn't been maintained and may not work as intended fixes will be coming soon.
