@@ -6,5 +6,5 @@ uses python-nmap
 
 apt package(debian based):
 ````
-apt update && apt upgrade && apt install python3 && apt install git;git clone https://github.com/null-0-1/network-scanner
+apt update && apt upgrade && apt install python3 && apt install git;git clone https://github.com/X-0-1/netscan-legacy
 ````
